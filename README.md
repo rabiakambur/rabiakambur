@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabia</h1>
 <h3 align="center">Junior Android Developer</h3>
 
-<img align="right" alt="GIF" src="gifs/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="gifs/developer.gif" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiakambur&label=Profile%20views&color=0e75b6&style=flat" alt="rabiakambur" /> </p>
 
