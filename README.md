@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiakambur&label=Profile%20views&color=0e75b6&style=flat" alt="rabiakambur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabiakambur" alt="rabiakambur" /></a> </p>
-
 <img align="right" alt="GIF" src="gifs/developer.gif" width="400" height="320" />
 
 - 🔭 I’m currently working on [side projects](https://github.com/rabiakambur/izmir-su-kesinti-takip)
