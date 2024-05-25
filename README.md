@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiakambur&label=Profile%20views&color=0e75b6&style=flat" alt="rabiakambur" /> </p>
 
-<img align="right" alt="GIF" src="gifs/developer.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="gifs/giphy.gif"/>
 
 - 🔭 I’m currently working on [side projects](https://github.com/rabiakambur/izmir-su-kesinti-takip)
 
-- 📝 I regularly write articles on [https://medium.com/@rabiakambur](https://medium.com/@rabiakambur)
+- 📝 I regularly write articles on [medium](https://medium.com/@rabiakambur)
 
 - 📫 You can reach me on **rabia.kambur@hotmail.com**
 
